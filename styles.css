@@ -1,0 +1,64 @@
+.jnr{
+    background-color: grey;
+    position: fixed;
+    width: 100%;
+    height: 80px;
+    line-height: 80px;
+}
+.jnr ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+.jnr li{
+    display:inline;
+    padding: 5%;
+    
+}
+.jnr li a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 1px, 15px 16px;
+    list-style: none;
+}
+img{
+    width: 100%;
+}
+p {
+    background-color: gray; color: white; 
+    padding: 5%;
+    text-align: center;
+    line-height: 2px;
+}
+ol{
+   
+    list-style: none;
+}
+#contact {
+    background-color: rgb(231, 231, 238);
+    margin: 20pdx;
+    padding: 16px;
+
+}
+input
+{
+    width: 100%;
+    padding: 12px;
+    margin: 5px 0px 22px 0px;
+    /* border: none; */
+    
+}
+#btn {
+    width: 100%;
+    padding: 12px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    
+}
+#btn :hover {
+    background-color: brown;
+}
